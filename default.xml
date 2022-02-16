@@ -12,6 +12,6 @@
   <project name="fmhess/meta-fluke-cda" path="meta-fluke-cda" remote="github" />
   <project name="meta-qt5/meta-qt5" path="meta-qt5" remote="github"/>
   <project name="meta-rust/meta-rust" path="meta-rust" remote="github" />
-  <project name="openembedded/meta-openembedded" path="poky/meta-openembedded" remote="github"/>
+  <project name="openembedded/meta-openembedded" path="meta-openembedded" remote="github"/>
   <project name="ssfivy/meta-noto" path="meta-noto" remote="github" />
 </manifest>

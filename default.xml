@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com" name="github"/>
+  <remote fetch="https://github.com/Xilinx" name="xilinx"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
   <remote fetch="http://git.yoctoproject.org/git" name="yocto"/>
-
+  
   <default revision="hardknott" sync-j="16"/>
 
   <project name="poky" remote="yocto" />
